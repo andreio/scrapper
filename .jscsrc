@@ -1,0 +1,21 @@
+{
+    "plugins": [
+        "jscs-jsx-rules"
+    ],
+    "preset": "airbnb",
+    "excludeFiles": [
+        "build/**",
+        "dist/**",
+        "node_modules/**",
+        "gulp/**"
+    ],
+    "requireShorthandArrowFunctions": true,
+    "validateIndentation": 4,
+    "disallowUnusedParams": true,
+    "disallowUnusedVariables": true,
+    "disallowVar": true,
+    "requireTrailingComma": false,
+    "maximumLineLength": 120,
+    "disallowSpacesInsideJsxExpressionContainers": true,
+    "maxErrors": 99999
+}

@@ -31,6 +31,7 @@
     "css-loader": "^0.26.1",
     "electron-packager": "^8.4.0",
     "electron-rebuild": "^1.4.0",
+    "jscs-jsx-rules": "0.0.1",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
     "node-libs-browser": "^2.0.0",
@@ -43,12 +44,13 @@
     "electron": "^1.4.12",
     "moment": "^2.17.1",
     "react": "^15.4.1",
+    "react-bootstrap": "^0.30.7",
     "react-desktop": "^0.2.14",
     "react-dom": "^15.4.1",
     "react-redux": "^5.0.1",
     "react-router": "^3.0.0",
+    "react-router-redux": "^4.0.7",
     "redux": "^3.6.0",
-    "redux-react-router": "^1.0.0-beta3",
     "redux-thunk": "^2.1.0",
     "thunk": "0.0.1"
   }
